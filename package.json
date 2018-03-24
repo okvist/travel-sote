@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "asdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okvist/travel-sote.git"
+  },
+  "keywords": [
+    "asdf"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okvist/travel-sote/issues"
+  },
+  "homepage": "https://github.com/okvist/travel-sote#readme",
+  "dependencies": {
+    "css": "^2.2.1",
+    "jquery": "^3.3.1",
+    "normalize": "^0.3.1"
+  }
+}
