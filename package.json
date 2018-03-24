@@ -1,20 +1,20 @@
 {
   "name": "ls",
   "version": "1.0.0",
-  "description": "test",
+  "description": "test page",
   "main": "index.js",
   "scripts": {
-    "test": "asdf"
+    "test": "test all the time"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/okvist/travel-sote.git"
   },
   "keywords": [
-    "asdf"
+    "test new page"
   ],
-  "author": "Daniel",
-  "license": "ISC",
+  "author": "Daniel Ökvist",
+  "license": "GNU public license",
   "bugs": {
     "url": "https://github.com/okvist/travel-sote/issues"
   },
